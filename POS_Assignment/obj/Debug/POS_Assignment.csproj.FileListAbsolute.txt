@@ -1,0 +1,11 @@
+c:\users\gamers\documents\visual studio 2013\Projects\POS_Assignment\POS_Assignment\bin\Debug\POS_Assignment.exe.config
+c:\users\gamers\documents\visual studio 2013\Projects\POS_Assignment\POS_Assignment\bin\Debug\POS_Assignment.exe
+c:\users\gamers\documents\visual studio 2013\Projects\POS_Assignment\POS_Assignment\bin\Debug\POS_Assignment.pdb
+c:\users\gamers\documents\visual studio 2013\Projects\POS_Assignment\POS_Assignment\obj\Debug\POS_Assignment.csprojResolveAssemblyReference.cache
+c:\users\gamers\documents\visual studio 2013\Projects\POS_Assignment\POS_Assignment\obj\Debug\POS_Assignment.frmMainMenu.resources
+c:\users\gamers\documents\visual studio 2013\Projects\POS_Assignment\POS_Assignment\obj\Debug\POS_Assignment.Properties.Resources.resources
+c:\users\gamers\documents\visual studio 2013\Projects\POS_Assignment\POS_Assignment\obj\Debug\POS_Assignment.csproj.GenerateResource.Cache
+c:\users\gamers\documents\visual studio 2013\Projects\POS_Assignment\POS_Assignment\obj\Debug\POS_Assignment.exe
+c:\users\gamers\documents\visual studio 2013\Projects\POS_Assignment\POS_Assignment\obj\Debug\POS_Assignment.pdb
+c:\users\gamers\documents\visual studio 2013\Projects\POS_Assignment\POS_Assignment\obj\Debug\POS_Assignment.frmProduct.resources
+C:\Users\Gamers\documents\visual studio 2013\Projects\POS_Assignment\POS_Assignment\obj\Debug\POS_Assignment.frmOrder.resources
